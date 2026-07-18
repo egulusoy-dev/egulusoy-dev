@@ -1,4 +1,4 @@
-# Hi there, I'm [Elmir GULUSOY] 👋
+# Hi there, I'm Elmir GULUSOY👋
 
 ### Computer Engineering Student | Ankara University & Azerbaijan Technical University Dual Degree
 
