@@ -27,13 +27,6 @@ I am an aspiring Computer Engineer currently entering my second year of study. I
 ---
 
 ## 📁 Featured Projects
--
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=egulusoy-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egulusoy-dev&layout=compact&theme=radical)
 
 ---
 
