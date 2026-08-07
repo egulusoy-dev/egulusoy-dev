@@ -27,9 +27,9 @@ I am an aspiring Computer Engineer currently entering my second year of study. I
 ---
 
 ## 📁 Featured Projects
-egulusoy-dev/crypto_research_engine / https://github.com/egulusoy-dev/crypto_research_engine
-egulusoy-dev/multi-agent-crypto-analyst / https://github.com/egulusoy-dev/multi-agent-crypto-analyst
-egulusoy-dev/crypto-sentiment-rag-api / https://github.com/egulusoy-dev/crypto-sentiment-rag-api
+- egulusoy-dev/crypto_research_engine / https://github.com/egulusoy-dev/crypto_research_engine
+- egulusoy-dev/multi-agent-crypto-analyst / https://github.com/egulusoy-dev/multi-agent-crypto-analyst
+- egulusoy-dev/crypto-sentiment-rag-api / https://github.com/egulusoy-dev/crypto-sentiment-rag-api
 
 ---
 
