@@ -28,6 +28,8 @@ I am an aspiring Computer Engineer currently entering my second year of study. I
 
 ## 📁 Featured Projects
 egulusoy-dev/crypto_research_engine
+egulusoy-dev/multi-agent-crypto-analyst
+
 ---
 
 ## 🤝 Connect With Me
