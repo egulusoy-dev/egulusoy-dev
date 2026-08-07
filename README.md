@@ -27,12 +27,13 @@ I am an aspiring Computer Engineer currently entering my second year of study. I
 ---
 
 ## 📁 Featured Projects
-egulusoy-dev/crypto_research_engine
-egulusoy-dev/multi-agent-crypto-analyst
+egulusoy-dev/crypto_research_engine / https://github.com/egulusoy-dev/crypto_research_engine
+egulusoy-dev/multi-agent-crypto-analyst / https://github.com/egulusoy-dev/multi-agent-crypto-analyst
+egulusoy-dev/crypto-sentiment-rag-api / https://github.com/egulusoy-dev/crypto-sentiment-rag-api
 
 ---
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/elmir-gulusoy-716064398/](https://linkedin.com/in/elmir-gulusoy-716064398/)
+- **LinkedIn:** [linkedin.com/in/elmir-gulusoy/](https://linkedin.com/in/elmir-gulusoy/)
 - **Email:** [glsyelmr@gmail.com]
